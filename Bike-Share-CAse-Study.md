@@ -1364,10 +1364,11 @@ overview of the analytical process and the value derived from it. The
 portfolio serves as a professional showcase of skills, methodologies,
 and outcomes.
 
-GitHub Portfolio: [GitHub](https://github.com/)
+GitHub Portfolio:
+[GitHub](https://github.com/Sirriche/Cyclistic-Bike-share-Analysis-Case-Study/blob/main/Bike-Share-CAse-Study.md)
 
 Tableau Public:
-[Tableau](https://github.com/Sirriche/Cyclistic-Bike-share-Analysis-Case-Study)
+[Tableau](https://public.tableau.com/app/profile/mira.che6636/viz/CapstoneProject_17078772571000/BikeShare)
 
 ### Practice Presentation
 
